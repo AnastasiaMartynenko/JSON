@@ -1,0 +1,25 @@
+{
+    "goods":[
+      {
+      "name": "Яблоки",
+      "weight": "1000",
+      "group": "Фрукты",
+      "price": "150",
+      "storehouse": "1"
+      },
+      {
+      "name": "Картошка ранняя",
+      "weight": "5000",
+      "group": "Овощи",
+      "price": "320",
+      "storehouse": "2"
+      },
+      {
+      "name": "Бананы",
+      "weight": "1000 ",
+      "group": "Фрукты",
+      "price": "99",
+      "storehouse": "1"
+      }
+      ]
+  }

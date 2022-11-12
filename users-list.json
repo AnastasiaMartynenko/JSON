@@ -1,0 +1,20 @@
+{
+    "users": [
+        {
+            "name": "Ivan",
+            "surname": "Ivanov",
+            "age": "37 y.o.",
+            "hobby": "fishing",
+            "marriage status": true,
+            "kids": "Maria nad Nicolay"
+        },
+        {
+            "name": "Olga",
+            "surname": "Frolova",
+            "age": "21 y.o.",
+            "hobby": "trevelling, tennis",
+            "marriage status": false,
+            "kids": null
+        }
+    ]
+}
